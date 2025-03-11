@@ -1,0 +1,12 @@
+.env
+.venv
+env/
+venv/
+.venv/
+./my-docs
+my-docs/
+./app/__pycache__/*
+./app/__pycache__/
+app/__pycache__/*
+./app/.pytest_cache/*
+./my-docs/*
